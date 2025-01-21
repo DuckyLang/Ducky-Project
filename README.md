@@ -34,7 +34,7 @@ Once DuckyLang is installed, you can run commands in your terminal using the `du
 `print ax     // Prints the value in register ax (now 15)`
 
 ## Development 
-`git clone https://github.com/DuckyLang/ducky.git`
-`cd ducky`
-`make`
+`git clone https://github.com/DuckyLang/ducky.git` This Will Clone The Repository
+`cd ducky` This Will Search for the Folder Ducky
+`make` And This Will Make the Files
 
