@@ -14,7 +14,7 @@ DuckyLang offers the following features:
 ## Installation
 
 1. **Download Ducky.exe**: Go to the [DuckyLang download page](https://duckylang.github.io/) and download the latest version of Ducky.exe.
-2. **Add Ducky to your PATH**: After downloading Ducky.exe, you can add it to your system's **PATH** variable, so you can run it from any directory using the `ducky` command.
+2. **Add Ducky to your CMD**: After downloading Ducky.exe, you can add it to your CMD trought cd which then you will search for your directory where you saved Ducky.exe,after that type `Ducky.exe` command and it should transfer you to the CLI.
 
 ## Usage
 
