@@ -27,14 +27,14 @@ Once DuckyLang is installed, you can run commands in your terminal using the `du
 
 ## Examples 
 // This is a simple "Hello, DuckyLang!" example
-print "Hello, DuckyLang!"  // This will print text on the screen
+`print "Hello, DuckyLang!"`  // This will print text on the screen
 
-move ax 10  // Moves the value 10 into register ax
-add ax 5     // Adds 5 to the value in register ax
-print ax     // Prints the value in register ax (now 15)
+`move ax 10  // Moves the value 10 into register ax`
+`add ax 5     // Adds 5 to the value in register ax`
+`print ax     // Prints the value in register ax (now 15)`
 
 ## Development 
-git clone https://github.com/DuckyLang/ducky.git
-cd ducky
-make
+`git clone https://github.com/DuckyLang/ducky.git`
+`cd ducky`
+`make`
 
